@@ -2,7 +2,7 @@ package tarea7;
 
 /**
  *
- * @author ivansteuerberg
+ * @author carli
  */
 public class Yate extends Barco {
 
